@@ -1,11 +1,56 @@
-body{
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    height: 55px;
+}
+
+body {
     background-color: #F6F8F9;
 }
-h1{
+h1 {
     display: inline-block;
     vertical-align:middle;
 }
 
-#logo{
+#logo {
     vertical-align: middle;
+}
+
+.container {
+    background-color: #F6F8F9;
+
+}
+
+.contenuto{
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color: red;
+    max-width: 800px;
+    height: 1000px;
+    border-radius: 10px;
+}
+
+nav{
+    margin-left:50px;
+    padding-top: 15px;
+
+}
+
+button{
+    border-radius: 5px;
+}
+
+#a-task{
+    background-color: #47ADF1;
+    color: white;
+    padding: 5px;
+}
+
+#a-section{
+    background-color: #C8CED3;
+    color: white;
+    padding: 5px;
 }
