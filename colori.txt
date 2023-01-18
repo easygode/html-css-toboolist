@@ -1,0 +1,3 @@
+sfondo: #F6F8F9
+bottoni: #C8CED3 e #47ADF1
+tags: #45ABEA / #9C72E4 / #65C1AA / #F29E33 / #D863A1 / #B0C926
